@@ -190,13 +190,14 @@ h2{
 }
 .update-field{
     background-color: rgb(255,244,214);
-    margin-left: 15%;
-    margin-right: 15%;
-    padding: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5%;
 }
 #button-update{
     margin-left: -15px;
     background-color: rgb(255,100,100);
+    border-radius: 5px;
 }
 .donate-update h1{
 font-size: 50px;
